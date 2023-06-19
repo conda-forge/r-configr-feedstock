@@ -1,11 +1,11 @@
-About r-configr
-===============
+About r-configr-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-configr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/Miachol/configr
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-configr-feedstock/blob/main/LICENSE.txt)
 
 Summary: Implements the JSON, INI, YAML and TOML parser for R setting and writing of configuration file. The functionality of this package is similar to that of package 'config'.
 
